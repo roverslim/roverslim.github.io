@@ -20,7 +20,7 @@
 
 title: tomasz skorupa
 description: >- # this means to ignore newlines until "baseurl:"
-  I am interested in software, systems, and the people building them.
+  I am interested in software, systems, and people building them.
   I'm a proponent of rapid iteration and of reduced complexity.
   I'm an avid reader and a thorough experimenter.
 baseurl: "" # the subpath of your site, e.g. /blog
