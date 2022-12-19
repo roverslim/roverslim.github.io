@@ -4,6 +4,9 @@ title:  "A Good Team"
 date:   2022-11-08
 categories: management process team
 ---
+
+![teamwork](/images/teamwork.jpg)
+
 I was approached to build out a department. A group was in place and consisted of three individuals that worked from a backlog. I met with all of them as part of my vetting in the role. I accepted the offer and was due to begin in three months time.
 
 In the lead time to my start date, two out of the three individuals had moved on to other opportunities. Two new folks had been hired to backfill those positions. So on my first day on the job, three out of the four people in our group, including myself, had been with the company for less than a month. This was very telling of the challenge up ahead. The churn was worrisome, the difficulties were implicit, yet the opportunity to spawn a culture within the group was prevalent.
